@@ -1,0 +1,6 @@
+num1=float(input("number1="))
+num2=float(input("number2="))
+print("PLUS:",num1,"+",num2,"=",num1+num2,)
+print("minus:",num1,"-",num2,"=",num1-num2,)
+print("multiply:",num1,"*",num2,"=",num1*num2,)
+print("divide:",num1,"/",num2,"=",num1/num2)
